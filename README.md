@@ -2,13 +2,13 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Samuel Kern Janneu
+Matricula: 
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
-
+Coloque aqui o print da tela de inspeção do seu navegador
+![Puc](images/telagalo.png)
 
 
 ## Orientações sobre Linguagem MarkDown
