@@ -9,6 +9,7 @@ Matricula: 1612893
 
 Coloque aqui o print da tela de inspeção do seu navegador
 ![Puc](images/telagalo.png)
+![Puc](images/curriculum%20vitae.png)
 
 
 ## Orientações sobre Linguagem MarkDown
