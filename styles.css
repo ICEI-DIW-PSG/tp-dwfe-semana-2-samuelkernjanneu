@@ -1,0 +1,100 @@
+body{
+    margin:0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background:#000000;
+}
+
+.container{
+    display:flex;
+    max-width:1000px;
+    margin:auto;
+    background:rgb(168, 168, 168);
+    box-shadow:0px 5px 20px rgba(0,0,0,0.1);
+}
+
+/* LADO ESQUERDO */
+
+.left{
+    width:30%;
+    background:#1e293b;
+    color:white;
+    padding:30px;
+}
+
+.left h3{
+    border-bottom:2px solid #38bdf8;
+    padding-bottom:5px;
+}
+
+.left ul{
+    padding-left:20px;
+}
+
+.left li{
+    margin-bottom:5px;
+}
+
+/* FOTO */
+
+.foto{
+    width:100%;
+    border-radius:8px;
+    margin-bottom:20px;
+}
+
+/* LADO DIREITO */
+
+.right{
+    width:70%;
+    padding:40px;
+}
+
+/* NOME */
+
+.right h1{
+    margin:0;
+    font-size:32px;
+    color:#0f172a;
+}
+
+.right h2{
+    margin-top:5px;
+    color:#202d41;
+    font-weight:normal;
+}
+
+/* TITULOS */
+
+.right h3{
+    margin-top:30px;
+    border-bottom:2px solid #0f172a;
+    padding-bottom:5px;
+    color:#0f172a;
+}
+
+/* TEXTO */
+
+.right li{
+    color:rgb(0, 0, 0)
+}
+.right li::marker{
+    color:#000000
+}
+
+p{
+    color:#ffffff;
+}
+
+.right p{
+    color:#000000
+}
+
+span{
+    color:#64748b;
+}
+
+/* LISTAS */
+
+ul{
+    margin-top:10px;
+}

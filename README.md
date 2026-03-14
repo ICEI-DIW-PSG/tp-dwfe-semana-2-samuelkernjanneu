@@ -10,6 +10,13 @@ Matricula: 1612893
 Coloque aqui o print da tela de inspeção do seu navegador
 ![Puc](images/telagalo.png)
 
+#Curriculum Vitae
+
+Nome: Samuel Kern Janneu
+Matrícula: 1612893
+
+## Print da página
+![Puc](images/curriculum%20vitae.png)
 
 ## Orientações sobre Linguagem MarkDown
 
